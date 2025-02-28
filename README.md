@@ -20,4 +20,4 @@ This was the methodology that was employed:
 2. Building different recommendation systems: Rank-based, Item-Item Similarity, User-User Similarity, Model-Based Collaborative Filtering
 3. Model Evaluation - Precision, Recall, RMSE, F1 Score
 
-Attached as part of this repo is the dataset utilized, along with the Jupyter Notebook. In the notebook is the code used to analyze the dataset, along with insights and observations of the results generated.
+Attached as part of the repo is the Jupyter Notebook, which contains the code used to analyze the dataset, along with insights and observations of the results generated.
